@@ -52,7 +52,7 @@ IdeaVault lets you *secure your creativity on the blockchain* with instant certi
 
 ### ▶ Run the Backend (API + AI)
 
-bash
+
 cd ideavault-ai
 pip install -r requirements.txt
 uvicorn main:app --reload --port 8000
@@ -60,7 +60,7 @@ uvicorn main:app --reload --port 8000
 
 ### ▶ Run the Frontend (Web)
 
-bash
+
 cd ideavault
 npm install
 npm run dev
