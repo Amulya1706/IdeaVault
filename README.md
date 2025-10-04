@@ -106,17 +106,21 @@ The move/IdeaVault module is designed to:
 ## 🖼 Screenshots (Coming Soon!)
 
 -DashBoard
+
 ![WhatsApp Image 2025-10-04 at 21 31 47_39bec0eb](https://github.com/user-attachments/assets/24ebee0d-3891-4368-94c2-d6e91d18cd53)
 
 
-Petra Wallet
+-Petra Wallet
+
 ![WhatsApp Image 2025-10-04 at 21 32 50_b99a8d95](https://github.com/user-attachments/assets/defcd651-cbc5-45e3-8067-340912207be8)
 
 
-Generated Certificate
+-Generated Certificate
+
 ![WhatsApp Image 2025-10-04 at 21 33 31_36736cfd](https://github.com/user-attachments/assets/a3cde47e-4f5e-43b2-bb97-596a5a24cfce)
 
-Verification portal
+-Verification portal
+
 ![WhatsApp Image 2025-10-04 at 21 33 57_62995149](https://github.com/user-attachments/assets/f4f0c037-afbb-460c-ae8f-05fc33bf1a86)
 
 
