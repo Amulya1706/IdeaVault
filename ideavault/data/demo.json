@@ -1,0 +1,52 @@
+[
+{
+"id": "e3a6d1...demo1",
+"title": "Smart Canteen Queue",
+"text": "Camera estimates queue length; app suggests best time.",
+"summary": "Computer vision estimates cafeteria queue; users plan lunch.",
+"tags": ["cv", "campus", "mobile"],
+"hash": "0x1111demo",
+"timestamp": 1710000000000,
+"txHash": "0xtx1111"
+},
+{
+"id": "c9b7aa...demo2",
+"title": "EcoBin IoT",
+"text": "IoT bins ping when full; sanitation routes optimized.",
+"summary": "Sensors in bins optimize pickup routes, cut fuel.",
+"tags": ["iot", "smartcity"],
+"hash": "0x2222demo",
+"timestamp": 1711000000000,
+"txHash": "0xtx2222"
+},
+{
+"id": "a1ff09...demo3",
+"title": "StudyBuddy",
+"text": "Peer matching by course + schedule.",
+"summary": "Match students by course/time and study goals.",
+"tags": ["edtech"],
+"hash": "0x3333demo",
+"timestamp": 1712000000000,
+"txHash": "0xtx3333"
+},
+{
+"id": "ddd001...demo4",
+"title": "HealthTrack",
+"text": "Steps + mood + water intake → wellness score.",
+"summary": "Daily habits scored; nudges to improve health.",
+"tags": ["healthtech"],
+"hash": "0x4444demo",
+"timestamp": 1713000000000,
+"txHash": "0xtx4444"
+},
+{
+"id": "8ab0fe...demo5",
+"title": "Campus Shuttle ETA",
+"text": "GPS buses + ETA in app; low‑battery mode UI.",
+"summary": "Live bus ETAs with energy‑lite UI for old phones.",
+"tags": ["transport", "mobile"],
+"hash": "0x5555demo",
+"timestamp": 1714000000000,
+"txHash": "0xtx5555"
+}
+]

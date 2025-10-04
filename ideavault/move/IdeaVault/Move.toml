@@ -1,0 +1,12 @@
+[package]
+name = "IdeaVault"
+version = "0.0.1"
+
+
+[addresses]
+idea_vault = "0xeb1071e849bf2adce442300a1b4fe10e6a7ec8da7a4a4b2bca4a704fda647da5"
+
+
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }

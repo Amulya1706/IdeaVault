@@ -1,0 +1,39 @@
+# --- Node / Next.js ---
+node_modules/
+.next/
+.out/
+dist/
+coverage/
+.npm/
+pnpm-lock.yaml
+yarn.lock
+*.log
+
+# Next.js build artifacts
+.next-static/
+.next/cache/
+.vercel/
+
+# Env files (keep the example only)
+.env
+.env.*
+!.env.local.example
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+.idea/
+*.swp
+
+# --- Python (ideavault-ai) ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Misc
+*.local
