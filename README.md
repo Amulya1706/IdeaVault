@@ -103,7 +103,7 @@ The move/IdeaVault module is designed to:
 
 ---
 
-## 🖼 Screenshots (Coming Soon!)
+## 🖼 Screenshots 
 
 -DashBoard
 
